@@ -1,2 +1,2 @@
-# rockpaperscissors
+# rock paper scissors
 EasyPythonGames
